@@ -1,0 +1,43 @@
+_repo: Douze-aventures-sentimentales-suivies-d-autres-histoires-d-a-present_72802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boutet, Frédéric
+    alias: Boutet, Frederic
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '56811'
+    url: http://www.gutenberg.org/2009/agents/56811
+    wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boutet
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72802'
+  lccn: '18016763'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101072914078
+pgterms:marc905: 20230612223511boutet
+pgterms:marc906: '1918'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bErnest Flammarion, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le messager -- Une rencontre -- Dans le parc -- Retour -- Ce soir-là...
+  -- Denise -- Dans le passé -- Thérèse -- Le soupçon -- Près de l'eau -- Le toit
+  brun -- La promesse -- Le vieux Monsieur -- Un renseignement -- Le cousin de Paris
+  -- La petite Louise -- Séparation -- Sur gages -- Pendant l'étude -- Les intrus
+  -- L'oncle Morin -- Une fin -- La visiteuse -- Mademoiselle Piégris -- Une apparence
+  -- La vocation -- L'étoile -- Deux amis -- Pareille... -- L'otage -- Un parent --
+  Au delà du mur -- Le problème -- L'enfant trouvé -- Mathilde -- Le vieil ami --
+  Le mensonge -- Le cahier vert -- Le rival -- Un oubli -- Au balcon -- M. César Balbois.
+title: Douze aventures sentimentales, suivies d'autres histoires d'à présent
+url: http://www.gutenberg.org/ebooks/72802
